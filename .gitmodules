@@ -1,0 +1,3 @@
+[submodule "parts/firstie"]
+	path = parts/firstie
+	url = https://github.com/foerstj/collab24.git
