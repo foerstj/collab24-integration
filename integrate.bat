@@ -2,6 +2,7 @@ rmdir /S /Q "art"
 rmdir /S /Q "world/ai"
 rmdir /S /Q "world/contentdb"
 rmdir /S /Q "world/global"
+rmdir /S /Q "world/maps/collab24/info"
 rmdir /S /Q "world/maps/collab24/regions"
 
 for /D %%p in (parts\*) do (
@@ -15,6 +16,6 @@ for /D %%p in (parts\*) do (
 )
 
 pushd %gaspy%
-venv\Scripts\python -m integrate_collab "%~dp0."
+venv\Scripts\python -m integrate_collab "%~dp0." collab24
 if %errorlevel% neq 0 pause
 popd
