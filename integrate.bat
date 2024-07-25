@@ -18,3 +18,5 @@ pushd %gaspy%
 venv\Scripts\python -m integrate_collab "%~dp0." collab24
 if %errorlevel% neq 0 pause
 popd
+
+pause
