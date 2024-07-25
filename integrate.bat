@@ -13,3 +13,8 @@ for /D %%p in (parts\*) do (
     robocopy "%%m/regions" "world/maps/collab24/regions" /S /xf .gitignore /xd "*_pre" /xd "*_post"
   )
 )
+
+pushd %gaspy%
+venv\Scripts\python -m integrate_collab "%~dp0."
+if %errorlevel% neq 0 pause
+popd
