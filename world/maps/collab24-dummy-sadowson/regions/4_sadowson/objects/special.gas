@@ -7,6 +7,10 @@
 			[*]
 			{
 				action* = mood_change("map_expansion_a9_r2_discokrug");
+				action* = send_world_message("we_req_activate",0x0040000A,0f,"default","every",0);
+				action* = send_world_message("we_req_activate",0x0040000B,0f,"default","every",0);
+				action* = send_world_message("we_req_activate",0x0040000C,0f,"default","every",0);
+				action* = send_world_message("we_req_activate",0x00400009,0f,"default","every",0);
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(6.000000,1.000000,6.000000,"on_every_enter");
 			  f delay = 0.000000;
