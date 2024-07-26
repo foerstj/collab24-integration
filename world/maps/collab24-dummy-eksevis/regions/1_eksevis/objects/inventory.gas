@@ -9,3 +9,71 @@
 	  p position = -1.85236,0,0.108135,0x86bcb892;
 	}
 }
+[t:xp_melee_exp_item,n:0x00100008]
+{
+	[dsxp_experience_award]
+	{
+	  f dex_stat = 1.35;
+	  f int_stat = 0.45;
+	  f melee_stat = 5;
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	  f str_stat = 3.2;
+	}
+	[placement]
+	{
+	  p position = 2.25576,-11.9244,-5.16434,0x27dea881;
+	}
+}
+[t:xp_ranged_exp_item,n:0x00100009]
+{
+	[dsxp_experience_award]
+	{
+	  f dex_stat = 3.1;
+	  f int_stat = 0.65;
+	  f ranged_stat = 5;
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	  f str_stat = 1.25;
+	}
+	[placement]
+	{
+	  p position = 0.930546,-11.9709,-5.14459,0x27dea881;
+	}
+}
+[t:xp_combatm_exp_item,n:0x0010000a]
+{
+	[dsxp_experience_award]
+	{
+	  f cmagic_stat = 5;
+	  f dex_stat = 0.85;
+	  f int_stat = 3.5;
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	  f str_stat = 0.65;
+	}
+	[placement]
+	{
+	  p position = -0.829156,-12,-5.30928,0x27dea881;
+	}
+}
+[t:xp_naturem_exp_item,n:0x0010000b]
+{
+	[dsxp_experience_award]
+	{
+	  f dex_stat = 0.9;
+	  f int_stat = 3.65;
+	  f nmagic_stat = 5;
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	  f str_stat = 0.45;
+	}
+	[placement]
+	{
+	  p position = -2.00864,-12,-5.30928,0x27dea881;
+	}
+}
