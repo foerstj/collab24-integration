@@ -9,3 +9,55 @@
 	  p position = -2.35102,0,-0.0884785,0x14e305dc;
 	}
 }
+[t:xp_melee_exp_item,n:0x00200009]
+{
+	[dsxp_experience_award]
+	{
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	}
+	[placement]
+	{
+	  p position = 1.78411,-11.9409,-5.03751,0xdd0e7778;
+	}
+}
+[t:xp_ranged_exp_item,n:0x0020000a]
+{
+	[dsxp_experience_award]
+	{
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	}
+	[placement]
+	{
+	  p position = 0.65315,-11.9806,-4.99832,0xdd0e7778;
+	}
+}
+[t:xp_combatm_exp_item,n:0x0020000b]
+{
+	[dsxp_experience_award]
+	{
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	}
+	[placement]
+	{
+	  p position = -0.683987,-12,-5.01241,0xdd0e7778;
+	}
+}
+[t:xp_naturem_exp_item,n:0x0020000c]
+{
+	[dsxp_experience_award]
+	{
+	  x scroll_scid_1 = 0x00000000;
+	  x scroll_scid_2 = 0x00000000;
+	  x scroll_scid_3 = 0x00000000;
+	}
+	[placement]
+	{
+	  p position = -1.93298,-12,-4.99385,0xdd0e7778;
+	}
+}
