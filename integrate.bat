@@ -2,7 +2,10 @@ rmdir /S /Q "art"
 rmdir /S /Q "world/ai"
 rmdir /S /Q "world/contentdb"
 rmdir /S /Q "world/global"
-rmdir /S /Q "world/maps/collab24/*"
+rmdir /S /Q "world/maps/collab24/index"
+rmdir /S /Q "world/maps/collab24/info"
+rmdir /S /Q "world/maps/collab24/quests"
+rmdir /S /Q "world/maps/collab24/regions"
 
 for /D %%p in (parts\*) do (
   robocopy "%%p/art" "art" /S /xf .gitignore
@@ -12,6 +15,9 @@ for /D %%p in (parts\*) do (
   for /D %%m in (%%p\world\maps\collab24*) do (
     robocopy "%%m/regions" "world/maps/collab24/regions" /S /xf .gitignore /xd "*_pre" /xd "*_post"
   )
+)
+for /D %%m in (world\maps\collab24-dummy*) do (
+  robocopy "%%m/regions" "world/maps/collab24/regions" /S /xf .gitignore /xd "*_pre" /xd "*_post"
 )
 
 pushd %gaspy%
