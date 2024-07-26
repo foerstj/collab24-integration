@@ -1,0 +1,5 @@
+[node_mesh_index]
+{
+	0x040006af = t_xxx_flr_08x08-v0;
+	0x04000a74 = t_xxx_wal_cave-split-24-front-base;
+}

@@ -1,0 +1,13 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000020;
+	source_region_name = 2_pre;
+	[t:stitch_editor,n:2_ghanawa]
+	{
+		dest_region = 2_ghanawa;
+		[node_ids]
+		{
+			0x00000f12 = 0xFBE29AA6,7;
+		}
+	}
+}
