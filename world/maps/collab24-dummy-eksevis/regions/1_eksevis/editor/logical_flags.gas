@@ -12,6 +12,12 @@
 		{
 		}
 	}
+	[t:lf_snode,n:0x30222df5]
+	{
+		[t:lf_lnode,n:0]
+		{
+		}
+	}
 	[t:lf_snode,n:0x86bcb892]
 	{
 		[t:lf_lnode,n:0]
@@ -19,6 +25,12 @@
 			* = lf_human_player;
 			* = lf_computer_player;
 			* = lf_dirt;
+		}
+	}
+	[t:lf_snode,n:0xbddcfb1b]
+	{
+		[t:lf_lnode,n:0]
+		{
 		}
 	}
 }

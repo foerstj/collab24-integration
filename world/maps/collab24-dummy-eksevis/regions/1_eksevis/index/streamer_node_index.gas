@@ -1,5 +1,7 @@
 [streamer_node_index]
 {
   x * = 0x27DEA881;
+  x * = 0x30222DF5;
   x * = 0x86BCB892;
+  x * = 0xBDDCFB1B;
 }

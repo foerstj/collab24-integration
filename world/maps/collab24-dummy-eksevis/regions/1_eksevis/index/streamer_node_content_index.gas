@@ -1,3 +1,7 @@
 [streamer_node_content_index]
 {
+  x 0x86bcb892 = 0x00100001;
+  x 0x86bcb892 = 0x00100002;
+  x 0x86bcb892 = 0x00100003;
+  x 0x86bcb892 = 0x00100004;
 }

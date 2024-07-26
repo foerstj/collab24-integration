@@ -1,3 +1,8 @@
 [streamer_node_content_index]
 {
+  x 0x14e305dc = 0x00200001;
+  x 0x14e305dc = 0x00200002;
+  x 0x14e305dc = 0x00200003;
+  x 0x14e305dc = 0x00200004;
+  x 0x14e305dc = 0x00200005;
 }
