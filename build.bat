@@ -20,7 +20,7 @@ set tc=%TankCreator%
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\maps\%map%" "%tmp%\Bits\world\maps\%map%" /S
 pushd %gaspy%
-venv\Scripts\python -m build.fix_start_positions_required_levels %map% "%tmp%\Bits"
+venv\Scripts\python -m build.fix_start_positions_required_levels %map% --bits "%tmp%\Bits"
 if %errorlevel% neq 0 pause
 popd
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%map_cs%.dsmap" -copyright "%copyright%" -title "%title%" -author "%author%"
