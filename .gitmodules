@@ -4,3 +4,6 @@
 [submodule "parts/andreou"]
 	path = parts/andreou
 	url = https://github.com/foerstj/collab24-andreou.git
+[submodule "parts/eksevis"]
+	path = parts/eksevis
+	url = https://github.com/foerstj/collab24-eksevis.git
