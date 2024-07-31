@@ -12,7 +12,7 @@ for /D %%p in (parts\*) do (
   robocopy "%%p/world/ai" "world/ai" /S /xf .gitignore
   robocopy "%%p/world/contentdb" "world/contentdb" /S /xf .gitignore
   robocopy "%%p/world/global" "world/global" /S /xf .gitignore
-  for /D %%m in (%%p\world\maps\collab24*) do (
+  for /D %%m in (%%p\world\maps\*) do (
     robocopy "%%m/regions" "world/maps/collab24/regions" /S /xf .gitignore /xd "*_pre" /xd "*_post"
   )
 )
