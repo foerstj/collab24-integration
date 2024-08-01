@@ -10,3 +10,6 @@
 [submodule "parts/sadowson"]
 	path = parts/sadowson
 	url = https://github.com/foerstj/collab24-sadowson.git
+[submodule "parts/emir-ghanawa"]
+	path = parts/emir-ghanawa
+	url = https://github.com/Neltharion59/Collab24_Slice2.git
