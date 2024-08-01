@@ -1,4 +1,5 @@
 rmdir /S /Q "art"
+rmdir /S /Q "sound"
 rmdir /S /Q "world/ai"
 rmdir /S /Q "world/contentdb"
 rmdir /S /Q "world/global"
@@ -9,6 +10,7 @@ rmdir /S /Q "world/maps/collab24/regions"
 
 for /D %%p in (parts\*) do (
   robocopy "%%p/art" "art" /S /xf .gitignore
+  robocopy "%%p/sound" "sound" /S /xf .gitignore
   robocopy "%%p/world/ai" "world/ai" /S /xf .gitignore
   robocopy "%%p/world/contentdb" "world/contentdb" /S /xf .gitignore
   robocopy "%%p/world/global" "world/global" /S /xf .gitignore
