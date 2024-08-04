@@ -37,7 +37,8 @@ rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\art" "%tmp%\Bits\art" /S
 robocopy "%bits%\sound" "%tmp%\Bits\sound" /S
 robocopy "%bits%\world\ai" "%tmp%\Bits\world\ai" /S
-robocopy "%bits%\world\contentdb" "%tmp%\Bits\world\contentdb" /S
+robocopy "%bits%\world\contentdb\components" "%tmp%\Bits\world\contentdb\components" /S
+robocopy "%bits%\world\contentdb\templates" "%tmp%\Bits\world\contentdb\templates" /S /xd original
 robocopy "%bits%\world\global" "%tmp%\Bits\world\global" /S
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%map_cs%.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
