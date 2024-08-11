@@ -1,6 +1,10 @@
+# Ignore files & folders of the integrated map & resources
 /art
 /sound
 /world/ai
 /world/contentdb
 /world/global
 /world/maps/collab24/*/*
+
+# Ignore where I put original templates for scripting purposes
+/original
