@@ -1,6 +1,7 @@
 # Ignore files & folders of the integrated map & resources
 /art
 /sound
+/ui
 /world/ai
 /world/contentdb
 /world/global
