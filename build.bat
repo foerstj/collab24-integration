@@ -17,11 +17,13 @@ set ds=%DungeonSiege%
 set tc=%TankCreator%
 
 :: pre-build checks
-robocopy "%bits%\original" "%bits%\world\contentdb\templates\original" /S
+robocopy "%bits%\original\templates" "%bits%\world\contentdb\templates\original" /S
+robocopy "%bits%\original\moods" "%bits%\world\global\moods\original" /S
 pushd %gaspy%
 venv\Scripts\python -m build.pre_build_checks %map% --check standard --bits "%bits%"
 set pre_build_checks_errorlevel=%errorlevel%
 rmdir /S /Q "%bits%\world\contentdb\templates\original"
+rmdir /S /Q "%bits%\world\global\moods\original"
 if %pre_build_checks_errorlevel% neq 0 pause
 popd
 
