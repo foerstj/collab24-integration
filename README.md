@@ -10,4 +10,4 @@ Integration environment for integrating the five map parts into one map.
 - Run Siege Editor -> Tools -> Stitch Builder -> Build Stitches -> collab24 - this is annoyingly a manual step
 - Add /original/templates and /original/moods for pre-build checks, the /original folder is git-ignored
 - Run build.bat - you need to provide %gaspy%, %DungeonSiege% and %TankCreator% paths as environment variables
-- Behold, %DungeonSiege%/DSLOA now contains "Collab 24.dsmap" and "Collab 24.dsres"
+- Behold, %DungeonSiege%/DSLOA now contains the dsmap and dsres file!
