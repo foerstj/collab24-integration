@@ -7,11 +7,11 @@ This map was created as a collaboration project on the Kingdom of Ehb Discord in
 Each collaborator created a part of the map, which were then stitched together.
 
 ## _Chapter I: The Ancient Valley_ by Eksevis
-_TODO chapter description_
+_The crypt collapsed behind you, now there's no going back. It doesn't take long for you to realize something is going wrong_
 
-About me: TODO BLABLA
+About me: This is my first released maps, and although I can be _""somewhat""_ stubborn about things, I have learned an immense amount working on the first slice. As far as things I have published; several textures and models in several mods, including Consistent Textures --the most notable-- and several assets in other campaigns by Firstie.
 
-About my contribution: TODO BLABLA
+About my contribution: I started with the "valley town", not really having any specific plans for it, but when we started talking about actually putting our heads together to make this, I decided to push what I had for the collaboration. Much of my slice focuses on a deep valley surrounded by high and steep cliff faces covered in ancient ruins of a nearly forgotten civilization. For at least the first half, I really wanted to depict what it feels like to explore an area well beyond its prime. Afterwards, you come to a floodplain created by two rivers running through a canyon that ends with a cave that had partially collapsed, letting the light into the darkest places.
 
 ## _Chapter II: The Path of the Merchant_ by Emir Ghanawa
 _Becoming a merchant is a windy road. Especially so for the unlucky in birth._
