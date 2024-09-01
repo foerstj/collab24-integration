@@ -2,7 +2,7 @@
 set map=collab24
 set res=%map%
 :: name of map, case-sensitive
-set map_cs=Collab 24
+set map_cs=Collab 2024 - The Goblin Menace
 :: tank properties
 set year=2024
 set copyright=CC-BY-SA %year%

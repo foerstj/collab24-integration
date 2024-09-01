@@ -1,8 +1,8 @@
 [t:map,n:map]
 {
 	name = "collab24";
-	screen_name = "Collab 24";
-	description = "Discord map collab project 2024";
+	screen_name = "Collab 2024 - The Goblin Menace";
+	description = "Journey through five different lands made by five different modders and defeat the Blasted Goblin!";
   b dev_only = false;
 	timeofday = 6h0m;
   b use_node_mesh_index = true;
