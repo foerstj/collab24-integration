@@ -16,9 +16,9 @@ About my contribution: I started with the "valley town", not really having any s
 ## _Chapter II: The Path of the Merchant_ by Emir Ghanawa
 _Becoming a merchant is a windy road. Especially so for the unlucky in birth._
 
-About me: TODO BLABLA
+About me: My public work currently consists of a playable map - The Eastern Kingdoms I: Neathis. To my knowledge, it's the first map at the time being allowing 8 characters in SP reach level 150. As the name suggests, I hope to create an entire franchise of maps, storywise connected. The second one is in works, already allowing to reach lvl about 130. I put many years into DS modding.
 
-About my contribution: TODO BLABLA
+About my contribution: My part consists of 'tiger caves' (named after specific color pattern of local grass), snowy regions, frost fae lands, and finally, the ice caves. I learnt a lot of new stuff working on this collaboration, and earned particular love for quests, as you will see. I have no boundaries, and had to be told to _stop_ making quests.
 
 ## _Chapter III: Underland_ by Firstie
 _Deep below the surface of the world, there lie wondrous lands where crystals and mushrooms grow..._
@@ -37,6 +37,6 @@ About my contribution: TODO BLABLA
 ## _Chapter V: The Lair of Doom_ by Andreou
 _The end of the journey draws near..._
 
-About me: I have always been a big fan of DS, and of making new stuff in general, so it was only natural for the two to collide. I've worked a lot on making new maps for DS, but haven't gotten to finishing many. Have the demo for Ethenn and a rework of veteran and elite maps balancing here on Nexus. Big project on the way, so I joined in with this awsome collaboration to make something nice for the community.
+About me: I have always been a big fan of DS, and of making new stuff in general, so it was only natural for the two to collide. I've worked a lot on making new maps for DS, but haven't gotten to finishing many. Have the demo for Ethenn and a rework of veteran and elite maps balancing here on Nexus. Big project on the way, so I joined in with this awesome collaboration to make something nice for the community.
 
 About my contribution: The last chapter is made by yours truely. Discover the lair of the evil one behind all of the misery of these lands, and find the pleasure of destroying all of it's many machines and followers. All through three huge and breath taking regions: the Sunset Slopes, Dirgnon Mines, and the volcanic lair of the Blasted Goblin himself.
