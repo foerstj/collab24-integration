@@ -37,6 +37,6 @@ About my contribution: TODO BLABLA
 ## _Chapter V: The Lair of Doom_ by Andreou
 _The end of the journey draws near..._
 
-About me: TODO BLABLA
+About me: I have always been a big fan of DS, and of making new stuff in general, so it was only natural for the two to collide. I've worked a lot on making new maps for DS, but haven't gotten to finishing many. Have the demo for Ethenn and a rework of veteran and elite maps balancing here on Nexus. Big project on the way, so I joined in with this awsome collaboration to make something nice for the community.
 
-About my contribution: TODO BLABLA
+About my contribution: The last chapter is made by yours truely. Discover the lair of the evil one behind all of the misery of these lands, and find the pleasure of destroying all of it's many machines and followers. All through three huge and breath taking regions: the Sunset Slopes, Dirgnon Mines, and the volcanic lair of the Blasted Goblin himself.
