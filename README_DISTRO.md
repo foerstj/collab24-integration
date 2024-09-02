@@ -30,9 +30,10 @@ About my contribution: For the collab, I created a land of caves, completely und
 ## _Chapter IV: Shattered Crossings_ by Sadowson
 _A broken bridge, an ancient curse..._
 
-About me: TODO BLABLA
+About me: I've been making mods for Dungeon Siege practically since the Siege Editor was first released back in the early 2000's, though my skills have significantly progressed since then! This has been a fun diversion from my current projects which I'm hoping to share more of in the future.
 
-About my contribution: TODO BLABLA
+About my contribution: The hero has entered a dark valley with an even darker secret. The undead are restless and hostile mercenaries have been seen roaming around, a curious situation for an otherwise normally sleepy place. Lady Athena in her home of Larissa is seeking a solution to the problem and perhaps you are the answer?\
+Shattered Crossings is a story that I've had on paper for a good long while now. Players only interested in hacking and slashing their way through enemies should find no trouble doing so, meanwhile other players that have a deeply vested interest in a storyline with hidden secrets to uncover should find a good story that unfolds before them.
 
 ## _Chapter V: The Lair of Doom_ by Andreou
 _The end of the journey draws near..._
